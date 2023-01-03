@@ -1,0 +1,11 @@
+M,MED-001,14000,Fortinol2,Si,toda edad
+S,SUP-001,13000,Protein-1,9,suplemento alimenticio para oficinistas,4,contine vitamina b12 b6 b7 b9
+M,FOR-001,17000,Formulin9,NO,No consumir en ayuna
+S,SUP-002,11500,Protein-2,9,suplemento alimenticio para informático,2,contine vitamina b12 b6
+M,FOR-002,19500,Formulin10,1,NO consumir en ayuna
+M,MED-003,16000,Fortinol-3,Si,Despues de comida
+S,SUP-003,13500,Protein-3,9,suplemento alimenticio para programadores,1,contine vitamina b12
+M,FOR-003,20500,Formulin-7,NO,No consumir en ayuna
+M,MED-004,17000,Fortinol-1,NO,mayored de edad
+S,SUP-004,12000,Protein-2,9,suplemento alimenticio para adolecentes,4,contine vitamina b12 b6 b7 b9
+M,FOR-004,21300,Formulin-4,Si,No consumir en ayuna

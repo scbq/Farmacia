@@ -1,0 +1,8 @@
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeExamen\ConLaFarmacia\bin\Debug\ConLaFarmacia.exe.config
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeExamen\ConLaFarmacia\bin\Debug\ConLaFarmacia.exe
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeExamen\ConLaFarmacia\bin\Debug\ConLaFarmacia.pdb
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeExamen\ConLaFarmacia\obj\Debug\ConLaFarmacia.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeExamen\ConLaFarmacia\obj\Debug\ConLaFarmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeExamen\ConLaFarmacia\obj\Debug\ConLaFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeExamen\ConLaFarmacia\obj\Debug\ConLaFarmacia.exe
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeExamen\ConLaFarmacia\obj\Debug\ConLaFarmacia.pdb
